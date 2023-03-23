@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/Huddle-landing-page-with-alternating-feature-blocks](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks)
+- Solution URL: [frontendmentor.io/solutions/Huddle-landing-page-with-alternating-feature-blocks](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-35n8rSGnYW)
 - Live Site URL: [abulhashim.github.io/Huddle-Landing-Page-with-Alternating-Feature-Blocks](https://abulhashim.github.io/Huddle-Landing-Page-with-Alternating-Feature-Blocks/)
 
 ## My process
